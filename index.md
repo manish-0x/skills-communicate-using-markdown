@@ -8,3 +8,8 @@ Not a heading
 
 Adding an image:
 ![some alternate text](https://octodex.github.com/images/yaktocat.png)
+
+Adding a code example:
+``` c
+printf("Hello, Github!\n");
+```
