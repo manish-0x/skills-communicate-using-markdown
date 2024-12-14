@@ -5,3 +5,6 @@
 ##### First heading (H5)
 ###### First heading (H6)
 Not a heading
+
+Adding an image:
+![some alternate text](https://octodex.github.com/images/yaktocat.png)
